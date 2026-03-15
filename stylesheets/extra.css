@@ -1,0 +1,21 @@
+/* 1. INCREASE FONT SIZE SITE-WIDE */
+:root {
+  /* Material 9.7+ uses 125% (20px) by default for accessibility. 
+     Increase this to 135% or 140% for larger text. */
+  font-size: 150%; 
+}
+
+/* 2. CHANGE FOOTER TO MEDIUM GRAY */
+.md-footer {
+  background-color: #757575; /* Medium Gray */
+}
+
+/* Ensure the copyright text is readable on the gray */
+.md-copyright {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+/* 3. CENTER CONTENT ON PAGES WITH NO SIDEBAR */
+.md-grid {
+  max-width: 50rem; /* Keeps the text from stretching too far */
+}

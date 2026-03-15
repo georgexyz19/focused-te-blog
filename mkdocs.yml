@@ -1,29 +1,31 @@
-site_name: Focused TE
+site_name: A Focused Traffic Engineer
+
 theme:
   name: material
-  palette: 
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: deep orange
-      accent: indigo
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: deep orange
-      accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
   features:
-    - navigation.tabs
+    - navigation.tabs 
     - navigation.sections
-    - search.suggest
-    - search.highlight
-    - content.code.copy
+    - toc.integrate
+
 
 plugins:
-  - search
-  - blog:
-      post_dir: docs/blog/posts
-      blog_dir: blog
+  - search:
+      enabled: false    # remove search box
 
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+nav:
+  - Home: index.md
+  - Blog:
+    - Overview: blog.md
+    - My First Post: blog/posts/second-post.md
+    - Another Post: blog/posts/first-post.md
+  - About: about.md
+
+extra:
+  generator: false
+copyright: "Copyright &copy; 2026 George Zhang"
+
+extra_css:
+  - stylesheets/extra.css

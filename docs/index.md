@@ -1,4 +1,10 @@
-# Homepage
+---
+hide:
+  - navigation
+---
 
-This is the homepage of my professional traffic engineering blog. I am a focused and dedicated traffic engineer 
-working and living in Virigina, US. 
+# Welcome
+
+I created this website to document my journey, share my projects, and keep a public notebook of my work. 
+
+Feel free to browse my [Blog](blog.md) to see my latest posts, or visit the [About](about.md) page if you'd like to get in touch.

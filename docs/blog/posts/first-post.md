@@ -1,6 +1,5 @@
 ---
-date: 2026-03-14
-authors: [me]
+date: 2026-03-15
 categories:
   - Parking
 ---
@@ -54,6 +53,6 @@ I also requested a reference link, which led to the Fairfax County
 The figure below is reproduced from the manual.
 
 <figure style="text-align:center;margin-top:40px;">
-  <img src="../images/parallel_parking_space.PNG" width="90%">
+  <img src="../images/parallel_parking_space.PNG" width="100%">
   <figcaption>Parallel Parking Space Dimension</figcaption>
 </figure>

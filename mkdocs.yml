@@ -1,0 +1,29 @@
+site_name: Focused TE
+theme:
+  name: material
+  palette: 
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+  - blog:
+      post_dir: docs/blog/posts
+      blog_dir: blog
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

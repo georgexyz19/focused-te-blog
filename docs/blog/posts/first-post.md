@@ -2,33 +2,37 @@
 date: 2026-03-14
 authors: [me]
 categories:
-  - Traffic Engineering
+  - Parking
 ---
 
-# Parking Space Dimension
+# Parallel Parking Space Dimension
 
-A few days ago on a Friday, some resident I don't know asked me on the phone what's the paralled 
-parking space dimension should be? 
+A few days ago, on a Friday, a resident I did not know called me and asked
+what the proper parallel parking space dimensions should be. 
+I have limited experience designing parking spaces. However, I remembered
+that the Virginia Road Design Manual Appendix A covers pedestrian,
+bicycle, and parking-related topics. I asked the person to please hold for
+a minute while I opened the manual to look for the dimension.
 
-I have limited experience on designing parking spaces. But I remeber that Virgina Road Design Manual
-appendix A is pedestrian, bike, and parking related.  I told the person that can you hold the phone 
-for a minute, and I am opening up the manual to look for the dimension for you. 
+While quickly flipping through the pages, I was surprised that I could not
+find a direct answer to the question. I then searched the document using
+the keyword “parallel,” but still could not locate a clear dimension.
+I explained that I could not find the answer immediately, but I would
+research it and get back to the person later.
 
-While I am quickly flipping though the pages, I am a little surprised that I can't find the answer 
-to the question.  Then I search the document with keyword "parallel", but still I can't location 
-the clear dimension for the person.  
+## What's the Exact Dimension?
 
-I explained to the person that I can't find the answer immediately.  But I will look it up and get 
-back to you later. 
+The Road Design Manual includes design dimensions for parallel parking
+spaces. It requires a **minimum width of 7 feet measured from the face of
+curb** for residential and mixed-use local streets, and **8 feet** for
+commercial and industrial areas.
 
-## Manual
-
-The Road Design Manual does have design dimension for parallel parking spaces. It requires "7 feet 
-in width measured from the face of curb" for residential and mixed use local street, and "8 feet" 
-for commercial and industrial area.  It does not specify a stall length because typically we don't 
-mark the spaces one by one.  Instead it is marking as a continuous parking lane. Most times, we 
-don't even paint the parking lane. If the road is wide enough, and there is no "No Parking" signs, 
-people are allowed to parking on the roadside. 
+The manual does not specify a stall length because parallel parking spaces
+are typically not marked individually. Instead, they are marked as a
+continuous parking lane (see below figure as an example). In many cases, 
+the parking lane is not painted at
+all. If the roadway is wide enough and parking is not prohibited by
+signs, vehicles may park along the roadside.
 
 <!-- ![Parallel Parking lane](images/parallel_parking_lane.PNG) -->
 <figure style="text-align:center;margin-top:40px;">
@@ -36,14 +40,20 @@ people are allowed to parking on the roadside.
   <figcaption>Parallel Parking Lane Example</figcaption>
 </figure>
 
-The the question becomes what if we want to mark individual parallel parking spaces. What's the 
-stall length it should be.  
+This raises the question: What if we want to mark individual parallel
+parking spaces? What should the stall length be?
 
-So I ask Google Gemini the question. Gemini's answer  is that it is typically determined by local 
-requirement, and there is no state level design requirement.  I ask what's the dimision should be 
-in Fairfax County. It tells me that the dimension is 8 feet width and 22 feet stall length.  I ask 
-Gemini can you show me the link to the document.  
+I asked Google Gemini this question. The response indicated that stall
+length is typically determined by local requirements and that there is no
+statewide design standard.
 
+I then asked specifically about Fairfax County. The response stated that
+the typical dimension is **8 feet in width and 22 feet in stall length**.
+I also requested a reference link, which led to the Fairfax County
+[Public Facilities Manual, Chapter 7](https://online.encodeplus.com/regs/fairfaxcounty-va-pfm/doc-viewer.aspx?secid=366#secid-366).
+The figure below is reproduced from the manual.
 
-
-
+<figure style="text-align:center;margin-top:40px;">
+  <img src="../images/parallel_parking_space.PNG" width="90%">
+  <figcaption>Parallel Parking Space Dimension</figcaption>
+</figure>

@@ -2,14 +2,13 @@ site_name: A Focused Traffic Engineer
 
 theme:
   name: material
+  custom_dir: overrides
   font:
     text: Roboto
     code: Roboto Mono
   features:
     - navigation.tabs 
     - navigation.sections
-    - toc.integrate
-
 
 plugins:
   - search:
@@ -17,10 +16,7 @@ plugins:
 
 nav:
   - Home: index.md
-  - Blog:
-    - Overview: blog.md
-    - My First Post: blog/posts/second-post.md
-    - Another Post: blog/posts/first-post.md
+  - Articles: blog.md
   - About: about.md
 
 extra:
@@ -29,3 +25,4 @@ copyright: "Copyright &copy; 2026 George Zhang"
 
 extra_css:
   - stylesheets/extra.css
+

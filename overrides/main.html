@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <div class="md-content__inner md-typeset" style="display: flex; flex-wrap: wrap;">
+    
+    {# Main Article Area #}
+    <div style="flex: 1; min-width: 300px;">
+      {{ super() }}
+    </div>
+
+    {# Custom Sidebar #}
+    {% if page.meta.custom_sidebar %}
+      <aside class="custom-post-sidebar" style="width: 260px; margin-left: 2rem; padding: 1.2rem; border-left: 1px solid var(--md-divider-color); font-size: 0.9em;">
+        
+        {# Display Author and Date specifically if they exist #}
+        {% if page.meta.author or page.meta.date %}
+          <div class="post-metadata" style="margin-bottom: 1rem; color: var(--md-default-fg-color--light);">
+            {% if page.meta.date %}<div><strong>Published:</strong> {{ page.meta.date }}</div>{% endif %}
+            {% if page.meta.author %}<div><strong>By:</strong> {{ page.meta.author }}</div>{% endif %}
+          </div>
+          <hr style="margin: 1rem 0;">
+        {% endif %}
+
+        {# Render the rest of the custom_sidebar (the links) #}
+        {{ page.meta.custom_sidebar }}
+      </aside>
+    {% endif %}
+  </div>
+
+  <style>
+    /* Styling to match the Material theme's sidebar look */
+    .custom-post-sidebar h3 {
+      margin-top: 0;
+      font-size: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05rem;
+    }
+    .custom-post-sidebar ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    .custom-post-sidebar li {
+      margin-bottom: 0.5rem;
+    }
+    
+    @media screen and (max-width: 60em) {
+      .md-content__inner { display: block; }
+      .custom-post-sidebar { 
+        width: 100%; 
+        margin-left: 0; 
+        border-left: none; 
+        border-top: 1px solid var(--md-divider-color); 
+        margin-top: 2rem;
+      }
+    }
+  </style>
+{% endblock %}

@@ -1,7 +1,21 @@
 ---
+title: Parallel Parking Space Dimension
 date: 2026-03-15
+author: George 
 categories:
   - Parking
+hide:
+  - toc
+  - navigation
+custom_sidebar: | 
+  **Date:** March 16, 2026  
+  **Author:** Professional Engineer  
+  
+  ---
+  
+  ### Recent Articles
+  - [My First Post](first-post.md) (March 15, 2026)
+  - [Engineering Precision](engineering-precision.md) (March 14, 2026)
 ---
 
 # Parallel Parking Space Dimension

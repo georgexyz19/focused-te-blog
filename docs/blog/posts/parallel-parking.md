@@ -1,24 +1,13 @@
 ---
 title: Parallel Parking Space Dimension
-date: 2026-03-15
+date: 2026-03-14
 author: George 
 categories:
   - Parking
 hide:
   - toc
   - navigation
-custom_sidebar: | 
-  **Date:** March 16, 2026  
-  **Author:** Professional Engineer  
-  
-  ---
-  
-  ### Recent Articles
-  - [My First Post](first-post.md) (March 15, 2026)
-  - [Engineering Precision](engineering-precision.md) (March 14, 2026)
 ---
-
-# Parallel Parking Space Dimension
 
 A few days ago, on a Friday, a resident I did not know called me and asked
 what the proper parallel parking space dimensions should be. 
@@ -49,7 +38,7 @@ signs, vehicles may park along the roadside.
 
 <!-- ![Parallel Parking lane](images/parallel_parking_lane.PNG) -->
 <figure style="text-align:center;margin-top:40px;">
-  <img src="../images/parallel_parking_lane.PNG" width="90%">
+  <img src="../images/parallel_parking_lane.PNG" width="95%">
   <figcaption>Parallel Parking Lane Example</figcaption>
 </figure>
 

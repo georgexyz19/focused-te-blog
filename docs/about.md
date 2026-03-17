@@ -7,9 +7,9 @@ hide:
 
 # About Me
 
-Hello! Thanks for visiting my site.
+Hello! Thanks for visiting my site.  The site is built with [Mkdocs with Material theme](https://www.mkdocs.org/). 
 
 ## Contact Information
-* **Email:** [myemail@example.com](mailto:myemail@example.com)
-* **GitHub:** [github.com/myusername](https://github.com/myusername)
-* **LinkedIn:** [linkedin.com/in/myprofile](https://linkedin.com/in/myprofile)
+* **Email:** georgexyz19@gmail.com
+* **GitHub:** github.com/georgexyz19
+* **LinkedIn:** [linkedin.com/in/george](https://linkedin.com/in/guanghua-george-zhang-pe-9b92b8217)

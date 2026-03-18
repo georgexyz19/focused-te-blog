@@ -1,3 +1,14 @@
 .md-grid {
   max-width: 800px;
 }
+
+/* Footer (bottom bar) background */
+.md-footer {
+  background-color: #bdbdbd; /* light gray */
+}
+
+/* Optional: text color for better contrast */
+.md-footer-meta {
+  background-color: #bdbdbd;
+  color: #000;
+}

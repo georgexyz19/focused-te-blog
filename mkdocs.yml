@@ -13,6 +13,12 @@ theme:
 plugins:
   - search:
       enabled: false    # remove search box
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      width: 100%
+      height: auto
 
 nav:
   - Home: index.md

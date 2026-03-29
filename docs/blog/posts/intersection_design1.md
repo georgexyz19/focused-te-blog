@@ -9,16 +9,19 @@ hide:
   - navigation
 ---
 
-A few months ago, a resident contacted our office and requested that we install a yield sign
-at an intersection. The location is in the Tysons urban area, and the road names are somewhat
-confusing. The road on the left-hand side is Gallows Rd. Gallows Branch Rd runs from west to 
-east, connecting to Gallows Rd on the west and Kidwell Dr on the east. Old Gallows Rd is
-located between Gallows Rd and Kidwell Dr and is connected to Gallows Branch Rd at the
-middle T-intersection.
+A few months ago, a resident contacted our office requesting that we install a yield sign
+at the intersection of Gallows Branch Rd and Old Gallows Rd. The location is in the Tysons,
+VA area.
 
-The person reported that some drivers on the channelized right turn from westbound Gallows
-Branch Rd to northbound Old Gallows Rd do not yield to vehicles on northbound Old Gallows
-Rd. The two red arrows on the map below show the traffic conflict between the two movements.
+The map below shows the area. The road on the left-hand side is Gallows Rd. Gallows Branch
+Rd runs from west to east, connecting to Gallows Rd on the west and Kidwell Dr on the east.
+Old Gallows Rd is located between Gallows Rd and Kidwell Dr and connects to Gallows Branch
+Rd at the T-intersection.
+
+The resident reported that some drivers using the channelized right turn from westbound
+Gallows Branch Rd to northbound Old Gallows Rd do not yield to vehicles on Old
+Gallows Rd. The two red arrows on the map below illustrate the traffic conflict between
+these two movements.
 
 <figure style="text-align:center;margin-top:40px;">
   <img src="../images/google_map.PNG" width="95%">
@@ -26,21 +29,21 @@ Rd. The two red arrows on the map below show the traffic conflict between the tw
 </figure>
 
 Typically, when there is no receiving lane for a channelized right-turn lane, we install a
-yield sign and sometimes add yield markings for the turning traffic. If there were reported
-crashes, we sometimes install a No Merging Area sign below the yield sign. Looking at the
-Google aerial photo, it seems that the person is correct that this is a yield condition. One
-of our technicians went to the intersection and conducted a field review. He confirmed the
-field condition and prepared a sign sketch to install the yield signs.
+yield sign and sometimes add yield markings for the turning traffic. If crashes have been
+reported, we may also install a No Merging Area sign below the yield sign. Based on the
+Google aerial photo, it appears the resident is correct that this location operates as a
+yield condition. One of our technicians visited the intersection and conducted a field
+review. He confirmed the existing conditions and prepared a sign sketch to install the
+yield signs.
 
 <figure style="text-align:center;margin-top:40px;">
   <img src="../images/gallows_branch_aerial2024.PNG" width="95%">
   <figcaption>October 2024 Aerial Photo</figcaption>
 </figure>
 
-When I reviewed the sketch, I found that there is only one left turn lane from eastbound 
-Gallows Branch Rd to northbound Old Gallows Rd, but there are two receiving lanes for 
-this movement. In situations like this, most drivers will use the right hand side 
-receive lane because it is easier to make the turn.  But why do we need two receiving 
-lanes? 
+When I reviewed the sketch, I noticed there is only one left-turn lane from eastbound
+Gallows Branch Rd to northbound Old Gallows Rd, but there are two receiving lanes for this
+movement. In situations like this, most drivers tend to use the right-hand receiving lane
+because it is easier to complete the turn. But why do we need two receiving lanes?
 
 To be continued...
